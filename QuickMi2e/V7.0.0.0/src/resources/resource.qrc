@@ -1,0 +1,39 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>images/reverse.png</file>
+    <file>images/Selection.png</file>
+    <file>images/speed.png</file>
+    <file>images/ticker.png</file>
+    <file>images/FileLot.png</file>
+    <file>images/tick.png</file>
+    <file>images/blackTicker.png</file>
+    <file>images/deep.png</file>
+    <file>images/blueticker.png</file>
+    <file>images/folder.png</file>
+    <file>images/file.png</file>
+    <file>images/S.png</file>
+    <file>images/undo.png</file>
+    <file>images/ploticon.png</file>
+    <file>images/AllRUN.png</file>
+    <file>images/mice.png</file>
+    <file>images/Quick.png</file>
+    <file>images/setting.png</file>
+    <file>images/exclaimation.png</file>
+    <file>images/ppt.jpg</file>
+    <file>images/run.png</file>
+    <file>images/change.png</file>
+    <file>images/2820296.png</file>
+    <file>images/Brush.png</file>
+    <file>images/all.png</file>
+    <file>images/image.jpg</file>
+    <file>images/exchange.png</file>
+    <file>images/checkSave.png</file>
+    <file>images/load.png</file>
+    <file>images/minus.png</file>
+    <file>images/Plot.png</file>
+    <file>images/plus.png</file>
+    <file>images/reset.png</file>
+    <file>images/files.png</file>
+    <file>images/Select.png</file>
+  </qresource>
+</RCC>
